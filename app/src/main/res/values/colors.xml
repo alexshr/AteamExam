@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="divider">#0c000000</color>
+
+    <array name="tab_colors">
+        <item name="tab_1">#6CCC3D</item>
+        <item name="tab_2">#33b3cc</item>
+    </array>
+</resources>

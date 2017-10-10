@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AteamExam</string>
+    <string name="app_title">a-teams exam</string>
+
+    <string name="cards">Карточки</string>
+    <string name="contacts">Контакты</string>
+</resources>

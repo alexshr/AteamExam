@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tabs>
+    <tab
+        id="@+id/cards"
+        icon="@drawable/ic_dashboard_black_24dp"
+        title="@string/cards" />
+    <tab
+        id="@+id/contacts"
+        icon="@drawable/ic_contacts_black_24dp"
+        title="@string/contacts" />
+
+</tabs>
