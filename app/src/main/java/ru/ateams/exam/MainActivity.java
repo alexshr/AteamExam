@@ -41,7 +41,6 @@ public class MainActivity extends AppCompatActivity {
 
         mViewPager.setAdapter(new NavigationAdapter(getSupportFragmentManager()));
 
-
         mTabColors = getApplicationContext().getResources().getIntArray(R.array.tab_colors);
         mNavigationAdapter = new AHBottomNavigationAdapter(this, R.menu.navigation);
         mNavigationAdapter.setupWithBottomNavigation(mBottomNavigation, mTabColors);

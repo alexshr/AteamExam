@@ -14,6 +14,8 @@ public class ContactsFragment extends Fragment {
 
     public static String TAG = "ContactsFragment";
 
+
+
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {

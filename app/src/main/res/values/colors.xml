@@ -3,8 +3,11 @@
 
     <color name="divider">#0c000000</color>
 
+    <color name="cards_bgr">#4D6CCC3D</color>
+    <color name="contacts_bgr">#4D33b3cc</color>
+
     <array name="tab_colors">
-        <item name="tab_1">#6CCC3D</item>
-        <item name="tab_2">#33b3cc</item>
+        <item name="cards_tab">#6CCC3D</item>
+        <item name="contacts_tab">#33b3cc</item>
     </array>
 </resources>

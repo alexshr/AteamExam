@@ -19,13 +19,6 @@
 
     </android.support.design.widget.AppBarLayout>
 
-    <FrameLayout
-        android:id="@+id/frame"
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        app:layout_behavior="@string/appbar_scrolling_view_behavior"
-        />
-
     <com.aurelhubert.ahbottomnavigation.AHBottomNavigationViewPager
         android:id="@+id/viewpager"
         android:layout_width="match_parent"
@@ -35,6 +28,7 @@
 
     <com.aurelhubert.ahbottomnavigation.AHBottomNavigation
         android:id="@+id/navigation"
+
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_gravity="bottom"/>
