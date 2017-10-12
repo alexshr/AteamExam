@@ -1,13 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
     <color name="divider">#0c000000</color>
 
-    <color name="cards_bgr">#4D6CCC3D</color>
-    <color name="contacts_bgr">#4D33b3cc</color>
+    <color name="contacts_bgr">#4D6CCC3D</color>
+    <color name="cards_bgr">#4D33b3cc</color>
 
     <array name="tab_colors">
-        <item name="cards_tab">#6CCC3D</item>
-        <item name="contacts_tab">#33b3cc</item>
+        <item name="contacts_tab">#6CCC3D</item>
+        <item name="cards_tab">#33b3cc</item>
     </array>
 </resources>
